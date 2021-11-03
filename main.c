@@ -1,4 +1,4 @@
-/* dirty digial LFO 8-9-21
+/* dirty digial LFO 11-1-21
 this version assumes you are using the SMD pots board
 otherwise you want to use the 5-21-21 code
 AUDIO DIWHY
